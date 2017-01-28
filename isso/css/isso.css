@@ -157,7 +157,7 @@
 
 .isso-postbox {
     max-width: 68em;
-    margin: 0 auto 2em;
+    margin: 1em auto 1em;
 }
 .isso-postbox > .form-wrapper {
     display: block;
