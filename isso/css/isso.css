@@ -24,7 +24,7 @@
     color: #AAA;
 }
 
-#isso-thread #auth-section {
+#isso-thread .auth-section {
     padding: 0;
     margin: 0;
 }
